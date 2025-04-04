@@ -1,3 +1,5 @@
+# ok no need to be mad anymore windows is here for you ;)
+
 import shutil
 import os as compy
 
