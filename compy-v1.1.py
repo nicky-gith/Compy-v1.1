@@ -146,8 +146,6 @@ while True:
             print()
             print("edfil - Edita un archivo.")
             print()
-            print("readme - Lee el archivo 'readme.txt'.")
-            print()
             print("timedate - Muestra que hora y fecha es.")
     elif command.lower() == "l":
         if compy.name == "nt":
